@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
+
+.barak {
+    font-size: 70px;
+}
+
+.barak.roi {
+    font-size: 80px;
+    color: blue;
+}
+
+#myid {
+    color: green;
+    font-size: 60px;
+    transition: all 3s;
+}
+
+#myid:hover {
+    color: brown;
+    font-size: 70px;
+}
+
+.img-wrapper {
+    background-color: red;
+}
