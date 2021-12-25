@@ -1,29 +1,26 @@
-h1 {
-    text-align: center;
-    color: red;
-    font-size: 20px;
+
+body {background-color: #F0F8FF;}
+
+hr {
+background-color: white;
+border-style: none;
+border-top-style: dotted;
+border-color: gray;
+border-width: 10px;
+width: 200px;
 }
 
-.barak {
-    font-size: 70px;
-}
+h1  {color: #66bfbf; }
+h1   { font:italic small-caps bold 40px cursive;}
+h2  {color: #66bfbf;}
+h3  {color: #66bfbf;}
+h4  {color: #66bfbf;}
 
-.barak.roi {
-    font-size: 80px;
-    color: blue;
-}
+/********************************************************class tag**************************************************************/
 
-#myid {
-    color: green;
-    font-size: 60px;
-    transition: all 3s;
-}
+.circle { border-radius: 100%;}
 
-#myid:hover {
-    color: brown;
-    font-size: 70px;
-}
+.heading {color: cornflowerblue;}
 
-.img-wrapper {
-    background-color: red;
-}
+
+
